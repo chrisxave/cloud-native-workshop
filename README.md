@@ -1,1 +1,1 @@
-# cloud-native-workshop
+cloud-native-workshop
